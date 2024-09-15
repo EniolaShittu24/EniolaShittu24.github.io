@@ -161,11 +161,12 @@ form {
 
 body > main > article > footer > div > a {
     text-decoration: none;
+    padding-right: 20%;
 }
 
 body > main > article > footer > div {
     display: flex;
-    align-items: center
+    align-items: center;
 }
 
 div {
